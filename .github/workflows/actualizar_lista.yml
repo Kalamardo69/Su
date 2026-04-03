@@ -20,7 +20,7 @@ jobs:
         run: pip install requests
 
       - name: Ejecutar script
-        run: python tu_script.py # Cambia esto por el nombre de tu archivo .py
+        run: python script.py # Cambia esto por el nombre de tu archivo .py
 
       - name: Subir cambios
         run: |
