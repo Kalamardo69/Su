@@ -5,7 +5,7 @@ import unicodedata
 SOURCE_URL = "https://ipfs.io/ipns/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u"
 OUTPUT_FILE = "lista2.m3u"
 # La URL base que precede al ID
-BASE_URL = "http://192.168.0.3:6878/ace/getstream?id="
+BASE_URL = "http://192.168.0.5:6878/ace/getstream?id="
 
 # Grupos que se eliminan por completo
 REMOVE_GROUPS = ["bundesliga","eventos","futbol int","motor","nba","otros","sport tv","tdt","tenis","ufc","liga endesa"]
